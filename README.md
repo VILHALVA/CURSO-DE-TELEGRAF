@@ -1,7 +1,7 @@
 # CURSO DE TELEGRAF
 👨‍⚖️TELEGRAF É UMA BIBLIOTECA JAVASCRIPT PARA CRIAR BOTS NO TELEGRAM USANDO NODEJS. ELE FACILITA A INTERAÇÃO COM A API DO TELEGRAM E AJUDA NA CRIAÇÃO DE BOTS DE FORMA MAIS SIMPLES E EFICIENTE.
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="IMAGEM.png" align="center" width="400"> <br>
 
 ## CONCEITO:
 Telegraf é uma biblioteca para Node.js que facilita a criação de bots do Telegram. Ela abstrai a complexidade da API do Telegram e fornece uma interface simples e intuitiva para desenvolver bots de forma rápida e eficiente.
